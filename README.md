@@ -1,4 +1,4 @@
-# Snake-Game-Project-C++
+# Snake Game Project C++
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - This project is basic snake game in C++ language. You can examine the code and give feedbacks about it. 
